@@ -8,13 +8,35 @@
 
 ---
 
-## 🚀 About Me
+## 🎓 Education
 
-- 🔭 Working on **Full-Stack Web Applications**
-- 🌱 Exploring **API design**, **Authentication**, **MongoDB Aggregation**
-- 👨‍💻 Focused on **React**, **Tailwind CSS**, **Node.js**, and **MongoDB**
-- 🎨 UI/UX enthusiast — love minimal, clean design
-- 📍 Based in **Bangladesh**, building future-ready web experiences
+🎓 I am currently a student of **Diploma in Engineering (Computer Science & Technology)**  
+🏫 **Barishal Polytechnic Institute**, Bangladesh  
+
+I’m passionate about computing, software, and web development.  
+I’ve been actively learning both the **theoretical** and **practical** aspects of modern software development.
+
+### 📘 Focus Areas:
+
+- Programming Fundamentals & Data Structures
+- Web Development (HTML, CSS, JavaScript, React)
+- Database Management (MongoDB, SQL)
+- Operating Systems & Networking
+
+💡 My dream is to become a professional **Full Stack Web Developer** and build applications that create impact.
+
+---
+
+## 🎯 Hobbies & Interests
+
+When I’m not coding, you’ll find me enjoying life through:
+
+- 🏸 Playing **Badminton**
+- 🏏 Watching and playing **Cricket**
+- ⚽ Supporting my favorite **Football** teams
+- ✈️ **Travelling** to explore new places, people, and experiences
+
+These activities help me stay fresh, focused, and inspired every day.
 
 ---
 
@@ -84,4 +106,4 @@
   🔖 <em>“Keep coding, keep growing. The journey just began...”</em>
 </p>
 
-<!-- Crafted by Shahadat Hasan ✨ -->
+<!-- Crafted with ❤️ by Shahadat Hasan -->
