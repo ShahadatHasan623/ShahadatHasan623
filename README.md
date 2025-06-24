@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="./githubprofile.png" width="150" height="150" style="border-radius: 50%;" alt="Shahadat Hasan Profile Picture"/>
+  <img src="./githubprofile.png" style="border-radius: 30%;" alt="Shahadat Hasan Profile Picture"/>
 </p>
 
 <h1 align="center">👋 Hey, I'm Shahadat Hasan</h1>
