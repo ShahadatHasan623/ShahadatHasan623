@@ -1,3 +1,8 @@
+
+<p align="center">
+  <img src="https://i.ibb.co/b59pTtFs/Black-Yellow-Modern-Programmer-Linked-In-Banner.png" width="150" height="150" style="border-radius: 50%;" alt="Shahadat Hasan Profile Picture"/>
+</p>
+
 <h1 align="center">👋 Hey, I'm Shahadat Hasan</h1>
 
 <p align="center">
