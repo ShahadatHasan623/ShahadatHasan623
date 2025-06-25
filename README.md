@@ -25,7 +25,7 @@ I’ve been actively learning both the **theoretical** and **practical** aspects
 
 - Programming Fundamentals & Data Structures
 - Web Development (HTML, CSS, JavaScript, React)
-- Database Management (MongoDB, SQL)
+- Database Management (MongoDB)
 - Operating Systems & Networking
 
 💡 My dream is to become a professional **Full Stack Web Developer** and build applications that create impact.
