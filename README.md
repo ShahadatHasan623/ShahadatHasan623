@@ -44,8 +44,7 @@
 
 <!-- Snake Animation -->
 <div align="center">
-    
-  ![snake gif](https://github.com/ShahadatHasan623/ShahadatHasan623/blob/output/github-snake-dark.svg)
+<img src="https://komarev.com/ghpvc/?username=ShahadatHasan623&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </div>
 
 ---
