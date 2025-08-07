@@ -63,8 +63,9 @@
 
 ---
 
+<h3 align="center">🐍 GitHub Contribution Snake:</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/shahadathasan623/shahadathasan623/output/snake.svg" alt="Snake animation" />
 </p>
 
 <p align="center">
