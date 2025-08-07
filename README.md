@@ -44,7 +44,7 @@
 
 <!-- Snake Animation -->
 <div align="center">
-<img src="https://raw.ShahadatHasan623.com/Platane/snk/output/github-contribution-grid-snake.gif" alt="GitHub Contribution Snake" height="150" />
+ <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif" alt="GitHub Contribution Snake" height="150" />
 </div>
 
 ---
