@@ -1,3 +1,8 @@
+<!-- Banner Image -->
+<p align="center">
+  <img src="https://i.imgur.com/rPpGpdm.png" alt="Banner" width="100%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Shahadat</h1>
 <h3 align="center">A passionate MERN Stack Developer from Bangladesh</h3>
 
@@ -24,13 +29,13 @@
 <h3 align="center">🌐 Connect with me:</h3>
 <p align="center">
   <a href="https://linkedin.com/in/md-shahadat-942577305/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="30" alt="LinkedIn" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="35" alt="LinkedIn" />
   </a>
   <a href="https://facebook.com/shahadat.shariar.2024" target="_blank">
-    <img src="https://skillicons.dev/icons?i=facebook" height="30" alt="Facebook" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="35" alt="Facebook" />
   </a>
   <a href="https://instagram.com/shahadat9790" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="30" alt="Instagram" />
+    <img src="https://skillicons.dev/icons?i=instagram" height="35" alt="Instagram" />
   </a>
 </p>
 
@@ -60,4 +65,8 @@
 
 <p align="center">
   <img src="https://i.imgflip.com/65efzo.gif" height="150" />
+</p>
+
+<p align="center">
+  🚀 Always building. Always learning. Always sharing.
 </p>
