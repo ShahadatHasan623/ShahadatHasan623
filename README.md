@@ -77,10 +77,6 @@
 </p>
 
 ---
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
 <p align="center">
   <img src="https://i.imgflip.com/65efzo.gif" height="150" />
 </p>
