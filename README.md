@@ -27,24 +27,34 @@
 ---
 
 <h3 align="center">🌐 Connect with me:</h3>
-<p align="center">
-  <a href="https://linkedin.com/in/md-shahadat-942577305/" target="_blank">
+<div align="center" style="display: flex; justify-content: center; gap: 25px; flex-wrap: wrap;">
+  <a href="https://linkedin.com/in/md-shahadat-942577305/" target="_blank" style="display: flex; align-items: center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn" />
   </a>
-  <a href="https://facebook.com/shahadat.shariar.2024" target="_blank">
+  <a href="https://facebook.com/shahadat.shariar.2024" target="_blank" style="display: flex; align-items: center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="40" alt="Facebook" />
   </a>
-  <a href="https://instagram.com/shahadat9790" target="_blank">
+  <a href="https://instagram.com/shahadat9790" target="_blank" style="display: flex; align-items: center;">
     <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram" />
   </a>
-</p>
+</div>
 
 ---
 
 <h3 align="center">🛠️ Languages & Tools:</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,git,vercel,netlify" alt="Skills" />
-</p>
+<div align="center" style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap; align-items: center;">
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML" height="40" />
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS" height="40" />
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" height="40" />
+  <img src="https://skillicons.dev/icons?i=react" alt="React" height="40" />
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" height="40" />
+  <img src="https://skillicons.dev/icons?i=express" alt="Express.js" height="40" />
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" height="40" />
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" height="40" />
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" height="40" />
+  <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" height="40" />
+  <img src="https://skillicons.dev/icons?i=netlify" alt="Netlify" height="40" />
+</div>
 
 ---
 
