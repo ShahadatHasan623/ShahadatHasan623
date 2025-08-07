@@ -37,6 +37,9 @@
   <a href="https://instagram.com/shahadat9790" target="_blank" style="display: flex; align-items: center;">
     <img src="https://skillicons.dev/icons?i=instagram" height="45" alt="Instagram" />
   </a>
+  <a href="mailto:shahadathasan743599@gmail.com" target="_blank" style="display: flex; align-items: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="45" alt="Email" />
+  </a>
 </div>
 
 ---
