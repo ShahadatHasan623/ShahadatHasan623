@@ -29,13 +29,13 @@
 <h3 align="center">🌐 Connect with me:</h3>
 <p align="center">
   <a href="https://linkedin.com/in/md-shahadat-942577305/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="35" alt="LinkedIn" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn" />
   </a>
   <a href="https://facebook.com/shahadat.shariar.2024" target="_blank">
-    <img src="https://skillicons.dev/icons?i=facebook" height="35" alt="Facebook" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="40" alt="Facebook" />
   </a>
   <a href="https://instagram.com/shahadat9790" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="35" alt="Instagram" />
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram" />
   </a>
 </p>
 
