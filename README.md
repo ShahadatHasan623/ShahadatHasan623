@@ -27,7 +27,7 @@
 ---
 
 <h3 align="center">🌐 Connect with me:</h3>
-<div align="center" style="display: flex; justify-content: center; gap: 35px; flex-wrap: nowrap;">
+<div align="center" style="display: flex; justify-content: center; gap: 35px; flex-wrap: nowrap; align-items: center;">
   <a href="https://linkedin.com/in/md-shahadat-942577305/" target="_blank" style="display: flex; align-items: center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="45" alt="LinkedIn" />
   </a>
@@ -38,7 +38,7 @@
     <img src="https://skillicons.dev/icons?i=instagram" height="45" alt="Instagram" />
   </a>
   <a href="mailto:shahadathasan743599@gmail.com" target="_blank" style="display: flex; align-items: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="45" alt="Email" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mail/mail-original.svg" height="45" alt="Email" />
   </a>
 </div>
 
