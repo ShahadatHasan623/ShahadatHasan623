@@ -38,9 +38,10 @@
     <img src="https://skillicons.dev/icons?i=instagram" height="45" alt="Instagram" />
   </a>
   <a href="mailto:shahadathasan743599@gmail.com" target="_blank" style="display: flex; align-items: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mail/mail-original.svg" height="45" alt="Email" />
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="45" alt="Email" />
   </a>
 </div>
+
 
 
 ---
