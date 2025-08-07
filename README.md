@@ -1,120 +1,36 @@
+<h1 align="center">Hi 👋, I'm Shahadat</h1>
+<h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<p align="center">
-  <img src="./githubprofile.png" style="border-radius: 30%;" alt="Shahadat Hasan Profile Picture"/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shahadathasan623&label=Profile%20views&color=0e75b6&style=flat" alt="shahadathasan623" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahadathasan623" alt="shahadathasan623" /></a> </p>
+
+- 🔭 I’m currently working on [Medicare](https://medicine-app-store.web.app/)
+
+- 🌱 I’m currently learning **OpenShift**
+
+- 👨‍💻 All of my projects are available at [https://my-portfolio-app-29430.web.app/](https://my-portfolio-app-29430.web.app/)
+
+- 💬 Ask me about **React**
+
+- 📫 How to reach me **shahadathasan743599@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/11Ckl2rwVKpYqwCxrkiewXGJcBx1uK9NN/view?usp=sharing](https://drive.google.com/file/d/11Ckl2rwVKpYqwCxrkiewXGJcBx1uK9NN/view?usp=sharing)
+
+- ⚡ Fun fact **I Think I am Funny**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/md-shahadat-942577305/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-shahadat-942577305/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/shahadat.shariar.2024" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/shahadat.shariar.2024" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/shahadat9790/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/shahadat9790/" height="30" width="40" /></a>
 </p>
 
-<h1 align="center">👋 Hey, I'm Shahadat Hasan</h1>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-<p align="center">
-  <a href="https://github.com/ShahadatHasan623">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&height=45&lines=Frontend+Web+Developer;React+%2F+Tailwind+Specialist;MERN+Stack+Learner+%26+Doer;Passionate+about+Clean+UI+%26+UX;Let%E2%80%99s+Build+Something+Awesome!" alt="Typing SVG" />
-  </a>
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahadathasan623&show_icons=true&locale=en&layout=compact" alt="shahadathasan623" /></p>
 
----
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahadathasan623&show_icons=true&locale=en" alt="shahadathasan623" /></p>
 
-## 🎓 Education
-
-🎓 I am currently a student of **Diploma in Engineering (Computer Science & Technology)**  
-🏫 **Barishal Polytechnic Institute**, Bangladesh  
-
-I’m passionate about computing, software, and web development.  
-I’ve been actively learning both the **theoretical** and **practical** aspects of modern software development.
-
-### 📘 Focus Areas:
-
-- Programming Fundamentals & Data Structures
-- Web Development (HTML, CSS, JavaScript, React)
-- Database Management (MongoDB)
-- Operating Systems & Networking
-
-💡 My dream is to become a professional **Full Stack Web Developer** and build applications that create impact.
-
----
-
-## 🎯 Hobbies & Interests
-
-When I’m not coding, you’ll find me enjoying life through:
-
-- 🏸 Playing **Badminton**
-- 🏏 Watching and playing **Cricket**
-- ⚽ Supporting my favorite **Football** teams
-- ✈️ **Travelling** to explore new places, people, and experiences
-
-These activities help me stay fresh, focused, and inspired every day.
-
----
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js" height="60" alt="JavaScript" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="60" alt="React.js" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="Node.js" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="60" alt="Express.js" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="MongoDB" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="Tailwind CSS" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="60" alt="HTML5" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="60" alt="CSS" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="60" alt="Vercel" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=netlify" height="60" alt="Netlify" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=stripe" height="60" alt="Stripe" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="60" alt="Git" />
-</div>
----
-
-## 📈 GitHub Stats
-
-| 📊 Overall | 🔥 Streak | 📌 Languages |
-|-----------|-----------|--------------|
-| ![](https://github-readme-stats.vercel.app/api?username=ShahadatHasan623&theme=highcontrast&show_icons=true&hide_border=false&count_private=true) | ![](https://streak-stats.demolab.com/?user=ShahadatHasan623&theme=highcontrast&hide_border=false) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShahadatHasan623&layout=compact&theme=highcontrast&hide_border=false) |
-
----
-
-## 🏆 GitHub Achievements
-
-![](https://github-profile-trophy.vercel.app/?username=ShahadatHasan623&theme=gruvbox&no-frame=false&no-bg=true&margin-w=5)
-
----
-
-## ✨ Dev Quote
-
-> ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-
-## 📌 Top Contributions
-
-![](https://github-contributor-stats.vercel.app/api?username=ShahadatHasan623&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
-## 🌐 Connect With Me
-
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/shahadat.shariar.2024)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/shahadat9790/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-k-shahadat-mohammad-942577305/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?style=flat-square&logo=gmail&logoColor=white)](mailto:shahadathasan743599@gmail.com)
-
----
-
-## 👁️ Visitor Count
-
-[![](https://visitcount.itsvg.in/api?id=ShahadatHasan623&icon=0&color=0)](https://visitcount.itsvg.in)
-
----
-
-<p align="center">
-  🔖 <em>“Keep coding, keep growing. The journey just began...”</em>
-</p>
-
-<!-- Crafted with ❤️ by Shahadat Hasan -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahadathasan623&" alt="shahadathasan623" /></p>
