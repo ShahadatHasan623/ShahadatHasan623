@@ -32,7 +32,7 @@
     <img src="https://skillicons.dev/icons?i=linkedin" height="35" alt="LinkedIn" />
   </a>
   <a href="https://facebook.com/shahadat.shariar.2024" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="35" alt="Facebook" />
+    <img src="https://skillicons.dev/icons?i=facebook" height="35" alt="Facebook" />
   </a>
   <a href="https://instagram.com/shahadat9790" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" height="35" alt="Instagram" />
@@ -62,6 +62,10 @@
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+</p>
 
 <p align="center">
   <img src="https://i.imgflip.com/65efzo.gif" height="150" />
