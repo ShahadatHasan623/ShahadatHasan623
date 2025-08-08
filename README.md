@@ -16,13 +16,23 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on [Medicare](https://medicine-app-store.web.app/)
-- 🌱 I’m currently learning **OpenShift & DevOps Basics**
-- 👨‍💻 All of my projects are available at [Portfolio](https://my-portfolio-app-29430.web.app/)
-- 💬 Ask me about **React, Node.js, MongoDB**
-- 📫 Reach me at **shahadathasan743599@gmail.com**
-- 📄 [View My Resume](https://drive.google.com/file/d/11Ckl2rwVKpYqwCxrkiewXGJcBx1uK9NN/view?usp=sharing)
-- ⚡ Fun fact: **I Think I am Funny 😄**
+- 🔭 I’m currently working on [Medicare](https://medicine-app-store.web.app/)  
+- 🌱 I’m currently learning **OpenShift**  
+- 👨‍💻 All of my projects are available at [Portfolio](https://my-portfolio-app-29430.web.app/)  
+- 💬 Ask me about **React, Node.js, MongoDB**  
+- 📫 Reach me at **shahadathasan743599@gmail.com**  
+- 📄 [View My Resume](https://drive.google.com/file/d/11Ckl2rwVKpYqwCxrkiewXGJcBx1uK9NN/view?usp=sharing)  
+- ⚡ Fun fact: **I Think I am Funny 😄**  
+
+---
+
+<!-- About Me -->
+<h3 align="center">👨‍💻 About Me</h3>
+<p align="center">
+I am Shahadat, a passionate <b>MERN Stack Developer</b> from Bangladesh with a love for building modern, responsive, and user-friendly web applications.  
+I enjoy turning ideas into reality using clean, efficient code, and I am always eager to learn and adapt to new technologies.  
+With a strong foundation in <b>React, Node.js, and MongoDB</b>, I aim to create impactful digital experiences. 🚀
+</p>
 
 ---
 
