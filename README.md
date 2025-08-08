@@ -31,7 +31,7 @@
 <div style="display: flex; align-items: center; justify-content: center; gap: 20px; flex-wrap: wrap;">
 
   <!-- About Me Text -->
-  <div style="max-width: 400px;">
+  <div style="max-width: 400px; min-width: 280px;">
     <h3>👨‍💻 About Me</h3>
     <p>
       I am Shahadat, a passionate <b>MERN Stack Developer</b> from Bangladesh with a love for building modern, responsive, and user-friendly web applications.  
@@ -41,8 +41,8 @@
   </div>
 
   <!-- Illustration -->
-  <div style="max-width:400px";>
-    <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" alt="Developer Illustration" width="400px" />
+  <div style="max-width: 400px; min-width: 280px;">
+    <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" alt="Developer Illustration" style="width: 100%; height: auto;" />
   </div>
 
 </div>
