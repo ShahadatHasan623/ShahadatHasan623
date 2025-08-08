@@ -22,6 +22,7 @@
 - 👨‍💻 All of my projects are available at [Portfolio](https://my-portfolio-app-29430.web.app/)  
 - 💬 Ask me about **React, Node.js, MongoDB**  
 - 📫 Reach me at **shahadathasan743599@gmail.com**  
+- 📞 Contact Number: **+880 1301608623**  
 - 📄 [View My Resume](https://drive.google.com/file/d/11Ckl2rwVKpYqwCxrkiewXGJcBx1uK9NN/view?usp=sharing)  
 - ⚡ Fun fact: **I Think I am Funny 😄**  
 
