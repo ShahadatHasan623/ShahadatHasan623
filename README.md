@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://i.imgur.com/rPpGpdm.png" alt="Banner" width="100%" />
+  <img src="./github-header-banner.png" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Shahadat</h1>
