@@ -104,7 +104,7 @@
 
 <h3 align="center">📅 My GitHub Contributions</h3>
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=shahadathasan623&theme=react-dark&area=true&hide_border=true" alt="GitHub Activity Graph" style="max-width: 100%; height: auto;" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=ShahadatHasan623&theme=react-dark&area=true&hide_border=true" alt="GitHub Activity Graph" style="max-width: 100%; height: auto;" />
 </p>
 
 ---
