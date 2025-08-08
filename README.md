@@ -33,12 +33,13 @@
 
 ### 💫 About Me
 
-<p>
-  I am Shahadat, a passionate <b>MERN Stack Developer</b> from Bangladesh with a love for building modern, responsive, and user-friendly web applications.<br>
-  I enjoy turning ideas into reality using clean, efficient code.<br>
-  I am always eager to learn and adapt to new technologies.<br>
-  With a strong foundation in <b>React, Node.js, MongoDB, and Next.js</b>, I aim to create impactful digital experiences. 🚀
-</p>
+<ul>
+  <li>👨‍💻 I am Shahadat, a passionate <b>MERN Stack Developer</b> from Bangladesh with a love for building modern, responsive, and user-friendly web applications.</li>
+  <li>💡 I enjoy turning ideas into reality using clean, efficient code.</li>
+  <li>📚 I am always eager to learn and adapt to new technologies.</li>
+  <li>🚀 With a strong foundation in <b>React, Node.js, MongoDB, and Next.js</b>, I aim to create impactful digital experiences.</li>
+</ul>
+
 
 
 <br>
