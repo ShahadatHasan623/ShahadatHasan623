@@ -33,11 +33,9 @@
 
 ### 💫 About Me
 
-- 🎓 I'm a Student and Web Developer
-- 🔭 I’m currently working on Web Development
-- 🌱 I’m currently learning DevOps
-- 👯 I’m looking to collaborate with open source enthusiasts
-- 🥅 2025 Goals: Learn DevOps, Nextjs And strengthen DSA
+I am Shahadat, a passionate <b>MERN Stack Developer</b> from Bangladesh with a love for building modern, responsive, and user-friendly web applications.  
+I enjoy turning ideas into reality using clean, efficient code, and I am always eager to learn and adapt to new technologies.  
+With a strong foundation in <b>React, Node.js, MongoDB, and Next.js</b>, I aim to create impactful digital experiences. 🚀
 
 <br>
 
