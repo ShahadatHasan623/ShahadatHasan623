@@ -27,21 +27,20 @@
 
 ---
 
-<!-- About Me + Illustration Row -->
-<div style="display: flex; align-items: center; justify-content: center; gap: 20px; flex-wrap: wrap;">
+<div style="display: flex; flex-wrap: nowrap; justify-content: center; align-items: flex-start; gap: 20px;">
 
-  <!-- About Me Text -->
-  <div style="max-width: 400px; min-width: 280px;">
+  <!-- Left Column: About Me -->
+  <div style="flex: 1; max-width: 45%; min-width: 280px;">
     <h3>👨‍💻 About Me</h3>
     <p>
-      I am Shahadat, a passionate <b>MERN Stack Developer</b> from Bangladesh with a love for building modern, responsive, and user-friendly web applications.  
-      I enjoy turning ideas into reality using clean, efficient code, and I am always eager to learn and adapt to new technologies.  
+      I am Shahadat, a passionate <b>MERN Stack Developer</b> from Bangladesh with a love for building modern, responsive, and user-friendly web applications.<br>
+      I enjoy turning ideas into reality using clean, efficient code, and I am always eager to learn and adapt to new technologies.<br>
       With a strong foundation in <b>React, Node.js, MongoDB, and Next.js</b>, I aim to create impactful digital experiences. 🚀
     </p>
   </div>
 
-  <!-- Illustration -->
-  <div style="max-width: 400px; min-width: 280px;">
+  <!-- Right Column: Illustration -->
+  <div style="flex: 1; max-width: 45%; min-width: 280px;">
     <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" alt="Developer Illustration" style="width: 100%; height: auto;" />
   </div>
 
