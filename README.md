@@ -62,12 +62,6 @@
   </a>
 </div>
 
-<!-- Contributions -->
-<h3 align="center">🔥 Contributions</h3>
-<div align="center">
-  <img src="https://badges.pufler.dev/commits/yearly/ShahadatHasan623" alt="Yearly Contributions"/>
-</div>
-
 <!-- Snake Animation -->
 <div align="center">
  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif" alt="GitHub Contribution Snake" height="150" />
