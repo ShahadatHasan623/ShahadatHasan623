@@ -53,6 +53,13 @@ With a strong foundation in <b>React, Node.js, MongoDB, and Next.js</b>, I aim t
   </a>
 </div>
 
+<!-- Contributions -->
+<h3 align="center">🔥 Contributions</h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ShahadatHasan623&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  <img src="https://badges.pufler.dev/commits/yearly/ShahadatHasan623" alt="Yearly Contributions"/>
+</p>
+
 <!-- Snake Animation -->
 <div align="center">
  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif" alt="GitHub Contribution Snake" height="150" />
