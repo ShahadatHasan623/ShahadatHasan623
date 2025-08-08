@@ -27,24 +27,19 @@
 
 ---
 
-<div style="display: flex; flex-wrap: nowrap; justify-content: center; align-items: flex-start; gap: 20px;">
-
-  <!-- Left Column: About Me -->
-  <div style="flex: 1; max-width: 45%; min-width: 280px;">
-    <h3>👨‍💻 About Me</h3>
-    <p>
-      I am Shahadat, a passionate <b>MERN Stack Developer</b> from Bangladesh with a love for building modern, responsive, and user-friendly web applications.<br>
-      I enjoy turning ideas into reality using clean, efficient code, and I am always eager to learn and adapt to new technologies.<br>
-      With a strong foundation in <b>React, Node.js, MongoDB, and Next.js</b>, I aim to create impactful digital experiences. 🚀
-    </p>
-  </div>
-
-  <!-- Right Column: Illustration -->
-  <div style="flex: 1; max-width: 45%; min-width: 280px;">
-    <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" alt="Developer Illustration" style="width: 100%; height: auto;" />
-  </div>
-
+<div>
+<img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Profile Image" width="340" />
 </div>
+
+### 💫 About Me
+
+- 🎓 I'm a Student and Web Developer
+- 🔭 I’m currently working on Web Development
+- 🌱 I’m currently learning DevOps
+- 👯 I’m looking to collaborate with open source enthusiasts
+- 🥅 2025 Goals: Learn DevOps, Nextjs And strengthen DSA
+
+<br>
 
 ---
 
