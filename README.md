@@ -41,7 +41,7 @@
   </div>
 
   <!-- Illustration -->
-  <div>
+  <div style="max-width:400px";>
     <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" alt="Developer Illustration" width="400px" />
   </div>
 
