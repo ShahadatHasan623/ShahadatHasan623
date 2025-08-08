@@ -32,7 +32,7 @@
 <p align="center">
 I am Shahadat, a passionate <b>MERN Stack Developer</b> from Bangladesh with a love for building modern, responsive, and user-friendly web applications.  
 I enjoy turning ideas into reality using clean, efficient code, and I am always eager to learn and adapt to new technologies.  
-With a strong foundation in <b>React, Node.js, and MongoDB</b>, I aim to create impactful digital experiences. 🚀
+With a strong foundation in <b>React, Node.js, MongoDB, and Next.js</b>, I aim to create impactful digital experiences. 🚀
 </p>
 
 ---
@@ -83,10 +83,12 @@ With a strong foundation in <b>React, Node.js, and MongoDB</b>, I aim to create 
   <img src="https://github-readme-stats.vercel.app/api?username=shahadathasan623&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
+<h3 align="center">🔥 Streak Data</h3>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahadathasan623&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
+<h3 align="center">🗣️ Languages Used</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahadathasan623&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
