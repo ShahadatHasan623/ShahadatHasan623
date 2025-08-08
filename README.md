@@ -17,7 +17,8 @@
 </p>
 
 - 🔭 I’m currently working on [Medicare](https://medicine-app-store.web.app/)  
-- 🌱 I’m currently learning **OpenShift**  
+- 🌱 I’m currently learning **OpenShift & DevOps Basics**  
+- 🚀 I am exploring **Next.js**  
 - 👨‍💻 All of my projects are available at [Portfolio](https://my-portfolio-app-29430.web.app/)  
 - 💬 Ask me about **React, Node.js, MongoDB**  
 - 📫 Reach me at **shahadathasan743599@gmail.com**  
@@ -65,6 +66,7 @@ With a strong foundation in <b>React, Node.js, and MongoDB</b>, I aim to create 
   <img src="https://skillicons.dev/icons?i=css" alt="CSS" height="45" />
   <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" height="45" />
   <img src="https://skillicons.dev/icons?i=react" alt="React" height="45" />
+  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" height="45" />
   <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" height="45" />
   <img src="https://skillicons.dev/icons?i=express" alt="Express.js" height="45" />
   <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" height="45" />
