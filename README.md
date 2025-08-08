@@ -55,10 +55,9 @@ With a strong foundation in <b>React, Node.js, MongoDB, and Next.js</b>, I aim t
 
 <!-- Contributions -->
 <h3 align="center">🔥 Contributions</h3>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ShahadatHasan623&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+<div align="center">
   <img src="https://badges.pufler.dev/commits/yearly/ShahadatHasan623" alt="Yearly Contributions"/>
-</p>
+</div>
 
 <!-- Snake Animation -->
 <div align="center">
