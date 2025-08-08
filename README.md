@@ -27,13 +27,25 @@
 
 ---
 
-<!-- About Me -->
-<h3 align="center">👨‍💻 About Me</h3>
-<p align="center">
-I am Shahadat, a passionate <b>MERN Stack Developer</b> from Bangladesh with a love for building modern, responsive, and user-friendly web applications.  
-I enjoy turning ideas into reality using clean, efficient code, and I am always eager to learn and adapt to new technologies.  
-With a strong foundation in <b>React, Node.js, MongoDB, and Next.js</b>, I aim to create impactful digital experiences. 🚀
-</p>
+<!-- About Me + Illustration Row -->
+<div style="display: flex; align-items: center; justify-content: center; gap: 20px; flex-wrap: wrap;">
+
+  <!-- About Me Text -->
+  <div style="max-width: 400px;">
+    <h3>👨‍💻 About Me</h3>
+    <p>
+      I am Shahadat, a passionate <b>MERN Stack Developer</b> from Bangladesh with a love for building modern, responsive, and user-friendly web applications.  
+      I enjoy turning ideas into reality using clean, efficient code, and I am always eager to learn and adapt to new technologies.  
+      With a strong foundation in <b>React, Node.js, MongoDB, and Next.js</b>, I aim to create impactful digital experiences. 🚀
+    </p>
+  </div>
+
+  <!-- Illustration -->
+  <div>
+    <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" alt="Developer Illustration" width="400px" />
+  </div>
+
+</div>
 
 ---
 
