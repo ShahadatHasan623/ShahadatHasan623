@@ -101,10 +101,15 @@
 </p>
 
 ---
+---
 
-<h3 align="center">📅 GitHub Contributions Calendar</h3>
+<h3 align="center">📅 My GitHub Contributions</h3>
 <p align="center">
-  <img src="https://ghchart.rshah.org/shahadathasan623" alt="GitHub Contributions Chart" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=shahadathasan623&theme=tokyonight" alt="WakaTime Stats" style="max-width: 100%; height: auto;" />
+</p>
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=shahadathasan623&theme=react-dark&area=true&hide_border=true" alt="GitHub Activity Graph" style="max-width: 100%; height: auto;" />
 </p>
 
 ---
