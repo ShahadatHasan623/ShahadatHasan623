@@ -40,8 +40,6 @@
   <li>🚀 With a strong foundation in <b>React, Node.js, MongoDB, and Next.js</b>, I aim to create impactful digital experiences.</li>
 </ul>
 
-
-
 <br>
 
 ---
@@ -103,6 +101,14 @@
 </p>
 
 ---
+
+<h3 align="center">📅 GitHub Contributions Calendar</h3>
+<p align="center">
+  <img src="https://ghchart.rshah.org/shahadathasan623" alt="GitHub Contributions Chart" />
+</p>
+
+---
+
 <p align="center">
   <img src="https://i.imgflip.com/65efzo.gif" height="150" />
 </p>
