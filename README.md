@@ -45,8 +45,11 @@ With a strong foundation in <b>React, Node.js, MongoDB, and Next.js</b>, I aim t
   <a href="https://facebook.com/shahadat.shariar.2024" target="_blank" style="display: flex; align-items: center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="45" alt="Facebook" />
   </a>
-  <a href="mailto:shahadathasan743599@gmail.com" target="_blank" style="display: flex; align-items: center;">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="45" alt="Email" />
+  <a href="https://instagram.com/shahadat9790" target="_blank" style="display: flex; align-items: center;">
+    <img src="https://skillicons.dev/icons?i=instagram" height="45" alt="Instagram" />
+  </a>
+  <a href="https://x.com/shahadat7435" target="_blank" style="display: flex; align-items: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="45" alt="Twitter" />
   </a>
 </div>
 
