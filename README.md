@@ -68,7 +68,7 @@
 
 <h3 align="center">🛠️ Languages & Tools:</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,tailwind,git,docker,linux,vercel,netlify" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,tailwind,git,docker,vercel,netlify" alt="My Skills" />
 </p>
 
 ---
