@@ -3,11 +3,17 @@
   <img src="./github-header-banner.png" alt="Shahadat's Banner" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Shahadat</h1>
-<h3 align="center">A passionate MERN & Full-Stack Web Developer from Bangladesh</h3>
+<!-- Dynamic Greeting & Role -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Shahadat;Full-Stack+Web+Developer;MERN+&+Next.js+Specialist;TypeScript+&+Prisma+Expert" alt="Typing SVG" />
+</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shahadathasan623&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=shahadathasan623&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/shahadathasan623?label=Followers&style=flat-square&color=21262d" alt="Followers" />
+</p>
+
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=shahadathasan623&theme=radical&margin-w=10&margin-h=10" alt="trophies" />
   </a>
@@ -17,48 +23,36 @@
 
 ### 💫 About Me
 
-* 👨‍💻 I am **Shahadat**, a passionate **Full-Stack Developer** from Bangladesh with a love for building modern, scalable, and user-friendly web applications.
-* 💡 I enjoy turning complex problems into elegant, clean, and maintainable code.
-* 🚀 Currently diving deep into **Next.js**, **OpenShift**, and **DevOps Basics** to level up my engineering skills.
-* ⚡ Fun fact: **I think I am funny, and my code usually works on the first try (usually) 😄**
+* 👨‍💻 I am **Shahadat**, a passionate Full-Stack Software Engineer from Bangladesh. I build high-performance, responsive, and secure web applications.
+* 🛠️ Transitioning from MERN to modern relational tech stacks like **TypeScript, PostgreSQL, and Prisma** for production-grade software architecture.
+* 🌱 Currently exploring the world of **OpenShift, CI/CD pipelines, and DevOps principles**.
+* ⚡ Fun fact: **I debug code in my sleep, and surprisingly, it works in the morning. 😄**
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Professional Skills Matrix
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&perline=7" alt="Frontend" />
-  </a>
-</p>
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma&perline=5" alt="Backend & Database" />
-  </a>
-</p>
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,vercel,netlify&perline=4" alt="DevOps & Tools" />
-  </a>
-</p>
+| Category | Tech Stack & Tools |
+| :--- | :--- |
+| **Frontend Development** | <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" alt="Frontend" /> |
+| **Backend & Databases** | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma" alt="Backend & DB" /> |
+| **DevOps & Hosting** | <img src="https://skillicons.dev/icons?i=git,docker,vercel,netlify" alt="DevOps & Deploy" /> |
 
 ---
 
-### 🚀 What I'm Up To
+### 🚀 Projects & Engagements
 
-- 🔭 Working on **[Medicare](https://medicine-app-store.web.app/)** — a robust platform designed to simplify medicine access.
-- 📦 Explore all of my personal projects over at my **[Portfolio Website](https://my-portfolio-app-29430.web.app/)**.
-- 💬 Ask me about **TypeScript, Next.js, React, Node.js, PostgreSQL, and Prisma**.
-- 📄 Interested in working together? [View My Resume](https://drive.google.com/file/d/11Ckl2rwVKpYqwCxrkiewXGJcBx1uK9NN/view?usp=sharing).
+- 🔭 **Current Focus:** Developing **[Medicare](https://medicine-app-store.web.app/)** — an advanced healthcare application built to streamline online medicine purchases.
+- 👨‍💻 **Showcase:** Check out my full ecosystem of projects, architecture patterns, and UI/UX engineering over at my **[Live Portfolio Website](https://my-portfolio-app-29430.web.app/)**.
+- 💬 **Let's Talk About:** React/Next.js optimizations, relational schema designs in Postgres, TypeScript type-safety, or backend systems.
+- 📄 **Career:** Open for full-time roles and freelance contracts. [View / Download My Resume](https://drive.google.com/file/d/11Ckl2rwVKpYqwCxrkiewXGJcBx1uK9NN/view?usp=sharing).
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 GitHub Analytics & Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shahadathasan623&show_icons=true&theme=tokyonight&ranking_channels=default" alt="Shahadat's GitHub stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shahadathasan623&show_icons=true&theme=tokyonight" alt="Shahadat's GitHub stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahadathasan623&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
 </p>
 
@@ -66,12 +60,12 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahadathasan623&theme=tokyonight" alt="GitHub Streak" width="97%" />
 </p>
 
-#### 📅 Contribution Graph
+#### 📅 Contribution Roadmap
 <p align="center">
-  <img src="https://ghchart.rshah.org/shahadathasan623" alt="GitHub Contributions Heatmap" width="100%" />
+  <img src="https://ghchart.rshah.org/0e75b6/shahadathasan623" alt="GitHub Contributions Heatmap" width="100%" />
 </p>
 
-<!-- Snake Animation -->
+<!-- Snake Game Animation -->
 <br />
 <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif" alt="GitHub Contribution Snake" height="140" />
@@ -79,23 +73,26 @@
 
 ---
 
-### 🌐 Let's Connect!
+### 🌐 Connect & Collaborate
 
 <p align="left">
   <a href="https://linkedin.com/in/md-shahadat-942577305/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" style="margin-right: 8px;" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="42" alt="LinkedIn" style="margin-right: 6px;" />
   </a>
   <a href="https://facebook.com/shahadat.shariar.2024" target="_blank">
-    <img src="https://skillicons.dev/icons?i=facebook" height="40" alt="Facebook" style="margin-right: 8px;" />
+    <img src="https://skillicons.dev/icons?i=facebook" height="42" alt="Facebook" style="margin-right: 6px;" />
   </a>
   <a href="https://instagram.com/shahadat9790" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram" style="margin-right: 8px;" />
+    <img src="https://skillicons.dev/icons?i=instagram" height="42" alt="Instagram" style="margin-right: 6px;" />
   </a>
   <a href="https://x.com/shahadat7435" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" height="40" alt="Twitter/X" style="margin-right: 8px;" />
+    <img src="https://skillicons.dev/icons?i=twitter" height="42" alt="Twitter/X" style="margin-right: 6px;" />
   </a>
 </p>
 
-<p align="center">
-  <strong>🔥 Always building. Always learning. Always sharing. 🔥</strong>
-</p>
+```json
+{
+  "status": "Available for Work",
+  "timezone": "GMT+6 (Bangladesh)",
+  "preferred_stack": ["Next.js", "TypeScript", "Prisma", "PostgreSQL"]
+}
