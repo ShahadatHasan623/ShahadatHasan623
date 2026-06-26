@@ -207,8 +207,8 @@ Developer portfolio website.
 Built With:
 
 ```
-Next.js
-TypeScript
+React.js
+Javascript
 Tailwind CSS
 ```
 
