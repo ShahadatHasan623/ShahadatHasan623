@@ -43,7 +43,7 @@
 ### 🚀 Projects & Engagements
 
 - 🔭 **Current Focus:** Developing **[Medicare](https://medicine-app-store.web.app/)** — an advanced healthcare application built to streamline online medicine purchases.
-- 👨‍💻 **Showcase:** Check out my full ecosystem of projects, architecture patterns, and UI/UX engineering over at my **[Live Portfolio Website](https://my-portfolio-app-29430.web.app/)**.
+- 👨+💻 **Showcase:** Check out my full ecosystem of projects, architecture patterns, and UI/UX engineering over at my **[Live Portfolio Website](https://my-portfolio-app-29430.web.app/)**.
 - 💬 **Let's Talk About:** React/Next.js optimizations, relational schema designs in Postgres, TypeScript type-safety, or backend systems.
 - 📄 **Career:** Open for full-time roles and freelance contracts. [View / Download My Resume](https://drive.google.com/file/d/11Ckl2rwVKpYqwCxrkiewXGJcBx1uK9NN/view?usp=sharing).
 
