@@ -1,26 +1,31 @@
-<!-- ===================== HERO ===================== -->
+<!-- =====================================================
+      GitHub Profile README
+      Author: Shahadat Hasan
+===================================================== -->
+
 
 <div align="center">
 
+
 <img src="./github-header-banner.png" width="100%" />
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=2500&pause=900&color=00E5FF&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B+I'm+Shahadat+Hasan;Full+Stack+Web+Developer;MERN+Stack+%7C+Next.js+%7C+TypeScript;Building+Scalable+Web+Solutions" />
 
 <br/>
+
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=2500&pause=900&color=00E5FF&center=true&vCenter=true&width=850&lines=Hi+%F0%9F%91%8B+I'm+Shahadat+Hasan;Full+Stack+Web+Developer;MERN+Stack+Developer;Next.js+%7C+TypeScript+Engineer;Building+Scalable+Applications" />
+
+
+<br/><br/>
+
 
 <img src="https://komarev.com/ghpvc/?username=shahadathasan623&style=for-the-badge&color=00E5FF"/>
 
-<img src="https://img.shields.io/github/followers/shahadathasan623?style=for-the-badge&color=181717"/>
+<img src="https://img.shields.io/github/followers/shahadathasan623?style=for-the-badge"/>
+
 
 </div>
 
-
-<br/>
-
-
-<!-- ===================== ABOUT ===================== -->
 
 
 # 👨‍💻 About Me
@@ -30,53 +35,411 @@
 src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
-Hi, I'm **Shahadat Hasan** 🚀
+Hello 👋 I'm **Shahadat Hasan**
 
-A passionate **Full Stack Developer** from Bangladesh.
+I am a passionate **Full Stack Developer** from Bangladesh 🇧🇩.
 
-I build modern, scalable, and user-friendly web applications using modern JavaScript technologies.
+I specialize in building modern, responsive, and scalable web applications using JavaScript technologies.
 
-### What I do:
 
-- 💻 Full Stack Web Development
-- ⚛️ React & Next.js Applications
-- 🔥 REST API Development
-- 🗄 Database Architecture
-- 🔐 Secure Authentication Systems
-- 🚀 Performance Optimization
+### 🚀 My Focus
+
+- ⚛️ React.js Development
+- ▲ Next.js Applications
+- 🟦 TypeScript Development
+- 🔥 Backend API Development
+- 🗄 Database Design
+- 🔐 Secure Authentication
+- ⚡ Performance Optimization
 
 
 <br clear="right"/>
 
 
+
 ---
 
-# 🧠 Developer Mindset
+
+# 🧑‍💻 Developer Profile
 
 
 ```javascript
-const developer = {
+const shahadat = {
 
 name: "Shahadat Hasan",
 
 role: "Full Stack Developer",
 
-code: [
-"JavaScript",
+
+skills: {
+
+frontend: [
+"React.js",
+"Next.js",
 "TypeScript",
-"React",
-"Node.js"
+"Tailwind CSS"
 ],
+
+
+backend: [
+"Node.js",
+"Express.js",
+"REST API"
+],
+
 
 database: [
 "MongoDB",
-"PostgreSQL"
-],
+"PostgreSQL",
+"Prisma"
+]
 
-architecture:
-"Clean & Scalable",
+},
+
 
 goal:
-"Build impactful software"
+"Create scalable production-ready software"
 
 }
+```
+
+
+---
+
+
+# 🛠️ Technology Stack
+
+
+## Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind,redux"/>
+
+</p>
+
+
+
+## Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+
+</p>
+
+
+
+## Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,prisma,firebase"/>
+
+</p>
+
+
+
+## Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,vercel,netlify"/>
+
+</p>
+
+
+
+---
+
+
+# 🚀 Featured Projects
+
+
+
+## 🏥 Medicare
+
+Healthcare medicine platform.
+
+
+### Features
+
+- User Authentication
+- Medicine Management
+- Product Search
+- Secure API
+- Responsive Design
+
+
+### Built With
+
+```
+React.js
+Node.js
+Express.js
+MongoDB
+Firebase
+```
+
+
+Live:
+
+https://medicine-app-store.web.app/
+
+
+---
+
+
+## 🌐 Portfolio Website
+
+
+Developer portfolio website.
+
+
+### Features
+
+- Modern UI
+- Responsive Layout
+- Project Showcase
+- Contact System
+
+
+Built With:
+
+```
+Next.js
+TypeScript
+Tailwind CSS
+```
+
+
+Live:
+
+https://my-portfolio-app-29430.web.app/
+
+
+
+---
+
+
+
+# 📚 Currently Learning
+
+
+```yaml
+
+Learning:
+
+- System Design
+- Advanced TypeScript
+- Prisma ORM
+- PostgreSQL
+- Docker
+- CI/CD
+
+
+Improving:
+
+- Backend Architecture
+- Cloud Deployment
+- Software Engineering
+
+
+```
+
+
+
+---
+
+
+# 📊 GitHub Statistics
+
+
+<div align="center">
+
+
+<img height="180"
+src="https://github-readme-stats.vercel.app/api?username=shahadathasan623&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+
+
+<img height="180"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahadathasan623&layout=compact&theme=tokyonight&hide_border=true"/>
+
+
+</div>
+
+
+
+<br/>
+
+
+
+<div align="center">
+
+
+<img width="90%"
+src="https://github-readme-streak-stats.herokuapp.com/?user=shahadathasan623&theme=tokyonight&hide_border=true"/>
+
+
+</div>
+
+
+
+---
+
+
+# 🏆 GitHub Trophy
+
+
+<div align="center">
+
+
+<img src="https://github-profile-trophy.vercel.app/?username=shahadathasan623&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+
+</div>
+
+
+
+---
+
+
+# 📈 Contribution Graph
+
+
+<div align="center">
+
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shahadathasan623&theme=tokyo-night"/>
+
+
+</div>
+
+
+
+
+---
+
+
+# 🐍 Contribution Snake
+
+
+<div align="center">
+
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+
+
+</div>
+
+
+
+---
+
+
+# 💼 Career Status
+
+
+```json
+
+{
+
+"availability": "Open for Work",
+
+"role": "Full Stack Developer",
+
+"location": "Bangladesh",
+
+
+"stack": [
+
+"React.js",
+"Next.js",
+"TypeScript",
+"Node.js",
+"PostgreSQL"
+
+],
+
+
+"work": [
+
+"Remote",
+"Full Time",
+"Freelance"
+
+]
+
+}
+
+```
+
+
+
+---
+
+
+# 📄 Resume
+
+
+Download Resume:
+
+https://drive.google.com/file/d/11Ckl2rwVKpYqwCxrkiewXGJcBx1uK9NN/view
+
+
+
+---
+
+
+# 🤝 Connect With Me
+
+
+<div align="center">
+
+
+<a href="https://linkedin.com/in/md-shahadat-942577305">
+
+<img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
+
+</a>
+
+
+<a href="https://github.com/shahadathasan623">
+
+<img src="https://skillicons.dev/icons?i=github" width="55"/>
+
+</a>
+
+
+<a href="https://instagram.com/shahadat9790">
+
+<img src="https://skillicons.dev/icons?i=instagram" width="55"/>
+
+</a>
+
+
+<a href="https://facebook.com/shahadat.shariar.2024">
+
+<img src="https://skillicons.dev/icons?i=facebook" width="55"/>
+
+</a>
+
+
+</div>
+
+
+
+---
+
+
+<div align="center">
+
+
+## ⭐ Thanks For Visiting My Profile
+
+
+### 🚀 Let's Build Something Amazing Together
+
+
+</div>
