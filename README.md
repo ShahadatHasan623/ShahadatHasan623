@@ -1,190 +1,82 @@
-<!-- Header Banner -->
-<p align="center">
-  <img src="./github-header-banner.png" alt="Shahadat Banner" width="100%" />
-</p>
+<!-- ===================== HERO ===================== -->
 
-<h1 align="center">
-  Hi 👋, I'm Shahadat Hasan
-</h1>
+<div align="center">
 
-<h3 align="center">
-  Full Stack Developer | MERN Stack | Next.js | TypeScript
-</h3>
+<img src="./github-header-banner.png" width="100%" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;MERN+Stack+Engineer;Next.js+%26+TypeScript+Developer;Building+Scalable+Web+Applications" />
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shahadathasan623&label=Profile%20Views&color=0e75b6&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/shahadathasan623?label=Followers&style=flat-square" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=2500&pause=900&color=00E5FF&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B+I'm+Shahadat+Hasan;Full+Stack+Web+Developer;MERN+Stack+%7C+Next.js+%7C+TypeScript;Building+Scalable+Web+Solutions" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=shahadathasan623&style=for-the-badge&color=00E5FF"/>
+
+<img src="https://img.shields.io/github/followers/shahadathasan623?style=for-the-badge&color=181717"/>
+
+</div>
 
 
----
-
-## 👨‍💻 About Me
-
-I am a passionate **Full Stack Web Developer** from Bangladesh, focused on building scalable, secure, and user-friendly web applications.
-
-- 🚀 Experienced in **MERN Stack development**
-- ⚡ Building modern applications with **Next.js & TypeScript**
-- 🧠 Interested in backend architecture, database design, and performance optimization
-- 🔐 Focused on clean code, security, and maintainable solutions
-- 🌱 Currently improving my skills in **DevOps, CI/CD, PostgreSQL, Prisma, and Cloud Technologies**
-- 💼 Open to Full-Time opportunities and freelance projects
+<br/>
 
 
----
-
-## 🛠️ Tech Stack
+<!-- ===================== ABOUT ===================== -->
 
 
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind,redux" />
-</p>
+# 👨‍💻 About Me
 
 
-### Backend & Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma" />
-</p>
+<img align="right" width="380"
+src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
-### Tools & DevOps
+Hi, I'm **Shahadat Hasan** 🚀
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,netlify,postman,vscode" />
-</p>
+A passionate **Full Stack Developer** from Bangladesh.
+
+I build modern, scalable, and user-friendly web applications using modern JavaScript technologies.
+
+### What I do:
+
+- 💻 Full Stack Web Development
+- ⚛️ React & Next.js Applications
+- 🔥 REST API Development
+- 🗄 Database Architecture
+- 🔐 Secure Authentication Systems
+- 🚀 Performance Optimization
+
+
+<br clear="right"/>
 
 
 ---
 
-## 🚀 Featured Projects
+# 🧠 Developer Mindset
 
 
-### 🏥 Medicare - Online Medicine Platform
+```javascript
+const developer = {
 
-A healthcare platform for browsing and purchasing medicines online.
+name: "Shahadat Hasan",
 
-**Tech:**
-- React.js
-- Node.js
-- Express.js
-- MongoDB
-- Firebase
+role: "Full Stack Developer",
 
-🔗 Live Demo:
-https://medicine-app-store.web.app/
+code: [
+"JavaScript",
+"TypeScript",
+"React",
+"Node.js"
+],
 
+database: [
+"MongoDB",
+"PostgreSQL"
+],
 
----
+architecture:
+"Clean & Scalable",
 
-### 🌐 Portfolio Website
+goal:
+"Build impactful software"
 
-Personal developer portfolio showcasing projects, skills, and experience.
-
-🔗 Live:
-https://my-portfolio-app-29430.web.app/
-
-
----
-
-## 📊 GitHub Statistics
-
-
-<p align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=shahadathasan623&show_icons=true&theme=tokyonight"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahadathasan623&layout=compact&theme=tokyonight"/>
-
-</p>
-
-
-<p align="center">
-
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=shahadathasan623&theme=tokyonight"/>
-
-</p>
-
-
----
-
-## 🏆 GitHub Achievements
-
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=shahadathasan623&theme=tokyonight&row=1&column=6"/>
-
-</p>
-
-
----
-
-## 📈 Contribution Activity
-
-
-<p align="center">
-<img src="https://ghchart.rshah.org/0e75b6/shahadathasan623" width="100%" />
-</p>
-
-
----
-
-## 🤝 Connect With Me
-
-
-<p>
-
-<a href="https://linkedin.com/in/md-shahadat-942577305">
-<img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
-</a>
-
-<a href="https://facebook.com/shahadat.shariar.2024">
-<img src="https://skillicons.dev/icons?i=facebook" width="45"/>
-</a>
-
-<a href="https://instagram.com/shahadat9790">
-<img src="https://skillicons.dev/icons?i=instagram" width="45"/>
-</a>
-
-<a href="https://x.com/shahadat7435">
-<img src="https://skillicons.dev/icons?i=twitter" width="45"/>
-</a>
-
-</p>
-
-
----
-
-## 📄 Resume
-
-Download my resume:
-
-[View Resume](https://drive.google.com/file/d/11Ckl2rwVKpYqwCxrkiewXGJcBx1uK9NN/view)
-
-
----
-
-## 💼 Current Status
-
-
-```json
-{
-  "availability": "Open for opportunities",
-  "role": "Full Stack Developer",
-  "location": "Bangladesh",
-  "focus": [
-    "React.js",
-    "Next.js",
-    "TypeScript",
-    "Node.js",
-    "PostgreSQL",
-    "Prisma"
-  ]
 }
