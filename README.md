@@ -1,316 +1,360 @@
-````md
 <!-- =====================================================
-     GitHub Profile README
-     Author: Shahadat Hasan
+      GitHub Profile README
+      Author: Shahadat Hasan
 ===================================================== -->
+
 
 <div align="center">
 
+
 <img src="./github-header-banner.png" width="100%" />
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Shahadat+Hasan;Full+Stack+Web+Developer;MERN+Stack+Developer;Next.js+%7C+TypeScript+Engineer;Building+Modern+Web+Applications" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=shahadathasan623&style=for-the-badge&color=00F7FF"/>
 
-<img src="https://img.shields.io/github/followers/shahadathasan623?style=for-the-badge&color=blue"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=2500&pause=900&color=00E5FF&center=true&vCenter=true&width=850&lines=Hi+%F0%9F%91%8B+I'm+Shahadat+Hasan;Full+Stack+Web+Developer;MERN+Stack+Developer;Next.js+%7C+TypeScript+Engineer;Building+Scalable+Applications" />
 
-<img src="https://img.shields.io/github/stars/shahadathasan623?style=for-the-badge&color=yellow"/>
+
+<br/><br/>
+
+
+<img src="https://komarev.com/ghpvc/?username=shahadathasan623&style=for-the-badge&color=00E5FF"/>
+
+<img src="https://img.shields.io/github/followers/shahadathasan623?style=for-the-badge"/>
+
 
 </div>
 
 
----
 
 # 👨‍💻 About Me
 
 
-<img align="right" width="420"
+<img align="right" width="380"
 src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
-Hi 👋 I'm **Shahadat Hasan**
+Hello 👋 I'm **Shahadat Hasan**
 
-🚀 Full Stack Web Developer from Bangladesh 🇧🇩
+I am a passionate **Full Stack Developer** from Bangladesh 🇧🇩.
 
-I build scalable, secure and user-friendly web applications.
-
-I enjoy transforming ideas into production-ready software using modern technologies.
+I specialize in building modern, responsive, and scalable web applications using JavaScript technologies.
 
 
-### 🔥 Current Focus
+### 🚀 My Focus
 
-- ⚛️ React Ecosystem
-- ▲ Next.js App Development
-- 🟦 TypeScript
-- 🔐 Authentication System
-- 🗄 Database Architecture
-- 🚀 API Design
+- ⚛️ React.js Development
+- ▲ Next.js Applications
+- 🟦 TypeScript Development
+- 🔥 Backend API Development
+- 🗄 Database Design
+- 🔐 Secure Authentication
+- ⚡ Performance Optimization
 
 
 <br clear="right"/>
 
 
+
 ---
 
-# 🧑‍💻 Developer Identity
+
+# 🧑‍💻 Developer Profile
 
 
 ```javascript
-const developer = {
+const shahadat = {
 
- name:"Shahadat Hasan",
+name: "Shahadat Hasan",
 
- role:"Full Stack Developer",
-
- stack:{
- 
- frontend:[
- "React",
- "Next.js",
- "TypeScript",
- "TailwindCSS"
- ],
-
- backend:[
- "Node.js",
- "Express.js",
- "REST API"
- ],
-
- database:[
- "MongoDB",
- "PostgreSQL",
- "Prisma"
- ]
-
- },
+role: "Full Stack Developer",
 
 
- mission:
- "Building scalable digital solutions"
+skills: {
+
+frontend: [
+"React.js",
+"Next.js",
+"TypeScript",
+"Tailwind CSS"
+],
+
+
+backend: [
+"Node.js",
+"Express.js",
+"REST API"
+],
+
+
+database: [
+"MongoDB",
+"PostgreSQL",
+"Prisma"
+]
+
+},
+
+
+goal:
+"Create scalable production-ready software"
 
 }
-````
+```
+
 
 ---
 
-# 🛠 Tech Stack
 
-<div align="center">
+# 🛠️ Technology Stack
 
-### Frontend
+
+## Frontend
+
+<p>
 
 <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind,redux"/>
 
-### Backend
+</p>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs"/>
 
-### Database
+
+## Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+
+</p>
+
+
+
+## Database
+
+<p>
 
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,prisma,firebase"/>
 
-### Tools
+</p>
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,vercel"/>
 
-</div>
 
----
+## Tools
 
-# 📊 Skill Level
+<p>
 
-```
-Frontend Development   ██████████ 95%
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,vercel,netlify"/>
 
-Backend Development    █████████  90%
+</p>
 
-Database Design        ████████   85%
 
-API Development        █████████  90%
-
-Problem Solving        ████████   85%
-
-```
 
 ---
+
 
 # 🚀 Featured Projects
 
-## 🏥 Medicare Platform
 
-Healthcare management application.
+
+## 🏥 Medicare
+
+Healthcare medicine platform.
+
 
 ### Features
 
-✔ Authentication
-✔ Medicine Management
-✔ Search System
-✔ Secure API
-✔ Responsive UI
+- User Authentication
+- Medicine Management
+- Product Search
+- Secure API
+- Responsive Design
 
-Tech:
+
+### Built With
 
 ```
-React
+React.js
 Node.js
-Express
+Express.js
 MongoDB
 Firebase
 ```
 
+
 Live:
+
 https://medicine-app-store.web.app/
 
+
 ---
+
 
 ## 🌐 Portfolio Website
 
-Personal developer portfolio.
 
-Features:
+Developer portfolio website.
 
-✔ Modern UI
-✔ Responsive Design
-✔ Project Showcase
-✔ Contact System
 
-Tech:
+### Features
+
+- Modern UI
+- Responsive Layout
+- Project Showcase
+- Contact System
+
+
+Built With:
 
 ```
-React
+React.js
 Javascript
-TailwindCSS
+Tailwind CSS
 ```
+
 
 Live:
+
 https://my-portfolio-app-29430.web.app/
+
+
 
 ---
 
+
+
 # 📚 Currently Learning
+
 
 ```yaml
 
 Learning:
 
-  - System Design
-  - Advanced TypeScript
-  - Prisma ORM
-  - PostgreSQL
-  - Docker
-  - CI/CD
+- System Design
+- Advanced TypeScript
+- Prisma ORM
+- PostgreSQL
+- Docker
+- CI/CD
 
 
 Improving:
 
-  - Backend Architecture
-  - Cloud Deployment
-  - Clean Code
+- Backend Architecture
+- Cloud Deployment
+- Software Engineering
+
 
 ```
 
+
+
 ---
 
-# 📈 GitHub Analytics
+
+# 📊 GitHub Statistics
+
 
 <div align="center">
+
 
 <img height="180"
 src="https://github-readme-stats.vercel.app/api?username=shahadathasan623&show_icons=true&theme=tokyonight&hide_border=true"/>
 
+
+
 <img height="180"
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahadathasan623&layout=compact&theme=tokyonight&hide_border=true"/>
 
+
 </div>
 
-<br>
+
+
+<br/>
+
+
 
 <div align="center">
 
-<img width="95%"
+
+<img width="90%"
 src="https://github-readme-streak-stats.herokuapp.com/?user=shahadathasan623&theme=tokyonight&hide_border=true"/>
 
-</div>
-
----
-
-# 📉 Contribution Activity
-
-<div align="center">
-
-<img width="95%"
-src="https://github-readme-activity-graph.vercel.app/graph?username=shahadathasan623&theme=tokyo-night"/>
 
 </div>
 
+
+
 ---
+
 
 # 🏆 GitHub Trophy
 
+
 <div align="center">
+
 
 <img src="https://github-profile-trophy.vercel.app/?username=shahadathasan623&theme=tokyonight&no-frame=true&row=1&column=7"/>
 
+
 </div>
+
+
 
 ---
 
-# 🐍 Contribution Snake
+
+# 📈 Contribution Graph
+
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shahadathasan623&theme=tokyo-night"/>
+
 
 </div>
 
----
-
-# ⏳ Developer Journey
-
-```text
-
-2024
- |
- |-- Started Web Development
- |
-2025
- |
- |-- React.js
- |-- Backend Development
- |-- MERN Stack
- |
-2026
- |
- |-- Full Stack Development
- |-- Next.js
- |-- System Design
 
 
-```
 
 ---
+
+
+# 🐍 Contribution Snake
+
+
+<div align="center">
+
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+
+
+</div>
+
+
+
+---
+
 
 # 💼 Career Status
+
 
 ```json
 
 {
 
-"availability":"Open For Work",
+"availability": "Open for Work",
 
-"role":"Full Stack Developer",
+"role": "Full Stack Developer",
 
-"location":"Bangladesh",
+"location": "Bangladesh",
 
 
-"skills":[
+"stack": [
 
-"React",
+"React.js",
 "Next.js",
 "TypeScript",
 "Node.js",
@@ -319,7 +363,7 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=shahadathasa
 ],
 
 
-"workMode":[
+"work": [
 
 "Remote",
 "Full Time",
@@ -331,59 +375,71 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=shahadathasa
 
 ```
 
+
+
 ---
 
+
 # 📄 Resume
+
 
 Download Resume:
 
 https://drive.google.com/file/d/11Ckl2rwVKpYqwCxrkiewXGJcBx1uK9NN/view
 
+
+
 ---
+
 
 # 🤝 Connect With Me
 
+
 <div align="center">
+
 
 <a href="https://linkedin.com/in/md-shahadat-942577305">
 
-<img src="https://skillicons.dev/icons?i=linkedin" width="60"/>
+<img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
 
 </a>
+
 
 <a href="https://github.com/shahadathasan623">
 
-<img src="https://skillicons.dev/icons?i=github" width="60"/>
+<img src="https://skillicons.dev/icons?i=github" width="55"/>
 
 </a>
+
 
 <a href="https://instagram.com/shahadat9790">
 
-<img src="https://skillicons.dev/icons?i=instagram" width="60"/>
+<img src="https://skillicons.dev/icons?i=instagram" width="55"/>
 
 </a>
 
-</div>
 
----
+<a href="https://facebook.com/shahadat.shariar.2024">
 
-# 💬 Developer Quote
+<img src="https://skillicons.dev/icons?i=facebook" width="55"/>
 
-<div align="center">
+</a>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight">
 
 </div>
 
+
+
 ---
 
+
 <div align="center">
+
 
 ## ⭐ Thanks For Visiting My Profile
 
+
 ### 🚀 Let's Build Something Amazing Together
 
+
 </div>
-
-
-```
