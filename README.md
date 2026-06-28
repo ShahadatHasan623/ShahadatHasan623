@@ -322,13 +322,13 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=shahadathasan623&the
 ---
 
 
-# 🐍 Contribution Snake
+#Contribution Snake
 
 
 <div align="center">
 
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+<img data-importer="snake" src="https://raw.githubusercontent.com/ShahadatHasan623/ShahadatHasan623/snake-output/snake.svg" alt="Snake animation" />
 
 
 </div>
