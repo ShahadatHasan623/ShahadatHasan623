@@ -328,7 +328,7 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=shahadathasan623&the
 <div align="center">
 
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/ShahadatHasan623/ShahadatHasan623/snake-output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/ShahadatHasan623/ShahadatHasan623/output/snake.svg" />
 
 
 </div>
