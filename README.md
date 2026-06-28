@@ -305,14 +305,11 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=shahadathasan623&the
 ---
 
 
-# 📈 Contribution Graph
-
+🐍 Contribution Snake
 
 <div align="center">
 
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shahadathasan623&theme=tokyo-night"/>
-
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
 
 </div>
 
