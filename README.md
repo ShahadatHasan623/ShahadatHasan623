@@ -306,9 +306,9 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=shahadathasan623&the
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/<Shahadat623>/<YOUR_GITHUB_USERNAME>/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/<Shahadat623>/<YOUR_GITHUB_USERNAME>/output/github-snake.svg" />
-    <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/<Shahadat623>/<YOUR_GITHUB_USERNAME>/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/<ShahadatHasan623>/<YOUR_GITHUB_USERNAME>/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/<ShahadatHasan623>/<YOUR_GITHUB_USERNAME>/output/github-snake.svg" />
+    <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/<ShahadatHasan623>/<YOUR_GITHUB_USERNAME>/output/github-snake.svg" />
   </picture>
 </p>
 ---
