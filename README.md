@@ -255,21 +255,31 @@ Improving:
 # 📊 GitHub Statistics
 
 
-# 💻 Most Used Languages
-
 <div align="center">
 
-<img width="48%"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahadathasan623&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+
+<img height="180"
+src="https://github-readme-stats.vercel.app/api?username=shahadathasan623&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+
+
+<img height="180"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahadathasan623&layout=compact&theme=tokyonight&hide_border=true"/>
+
 
 </div>
 
-<p align="center">
-<img src="https://img.shields.io/badge/JavaScript-Most%20Used-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-Production%20Ready-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Node.js-Backend-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-</p>
+
+
+<br/>
+
+
+
+<div align="center">
+
+
+<img width="90%"
+src="https://github-readme-streak-stats.herokuapp.com/?user=shahadathasan623&theme=tokyonight&hide_border=true"/>
 
 
 </div>
@@ -409,3 +419,4 @@ https://drive.google.com/file/d/11Ckl2rwVKpYqwCxrkiewXGJcBx1uK9NN/view
 
 
 </div>
+Most popular language used konta hoyche ta dekhao
