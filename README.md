@@ -134,7 +134,6 @@ Developer portfolio website
 </tr>
 </table>
 
-> 💡 Tip: Add a screenshot or GIF preview image for each project card above — visuals convert visitors into contacts much faster than text alone.
 
 ---
 
